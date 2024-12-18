@@ -4,6 +4,8 @@ Just a storage of all my tools and templates
 - [Smooth Camera Zoom](#smooth-camera-zoom)
 - [Smooth Camera Movement (RTS)](#smooth-camera-movement-rts)
 
+- [ThickTick](#thicktick---simple-second-and-frame-ticker)
+
 # Smooth Camera Zoom
 [Download unityPackage file (smooth camera zoom)](https://github.com/vavilichev/UnityToolsAndTemplates/raw/refs/heads/main/Assets/SmoothCameraZoom/SmoothCameraZoomTemplate.unitypackage)
 
@@ -14,3 +16,9 @@ Just a storage of all my tools and templates
 [Download unityPackage file (smooth camera movement RTS)](https://github.com/vavilichev/UnityToolsAndTemplates/raw/refs/heads/main/Assets/SmoothCameraRTS/SmoothCameraRTS.unitypackage)
 
 ![CameraMovementRTS](https://github.com/user-attachments/assets/f0a03a88-bacf-47fa-a30c-a2e56c029335)
+
+# ThickTick - simple second and frame ticker
+Template to create an unified ticker. Anybody can subscribe on frame tick, second tick, or both using different tickers: FrameTicker, SecondTicker, CombinedTicker<br>
+
+[Download unityPackage file (ThickTick)](https://github.com/vavilichev/UnityToolsAndTemplates/raw/refs/heads/main/Assets/ThickTick/ThickTick.unitypackage)
+
