@@ -41,6 +41,6 @@ This template for the fast integrating Game Resources feature in your project. S
 - [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity)
 - Newtonsoft.Json installed through NuGetForUnity
 - R3 installed through NuGetForUnity
-
-[Download unityPackage file (GameResources Template)](https://github.com/vavilichev/UnityToolsAndTemplates/raw/heads/main/Assets/Vavilichev/GameResources/GameResoruces%20v.1.0.unitypackage)
+  
+[Download unityPackage file (GameResources Template)](https://github.com/vavilichev/UnityToolsAndTemplates/raw/refs/heads/main/Assets/Vavilichev/GameResources/GameResoruces%20v.1.0.unitypackage)
 
